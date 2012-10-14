@@ -8,6 +8,6 @@
     <string name="celsius">to Celsius</string>
     <string name="fahrenheit">to Fahrenheit</string>
 	<string name="hint">Enter Temperature</string>
-	<string name="calc">Calculate</string>
+	<string name="calc">Convert</string>
 	<string name="clear">Clear</string>
 </resources>

@@ -1,2 +1,8 @@
 Author: Kapil Sethi
-Description: Temperature Converter from Celsius to Fahrenheit and vice versa
+
+Description: Temperature Converter (from Celsius to Fahrenheit and vice versa)
+
+Features: 
+a) Converts temperature from Celsius to Fahrenheit
+b) Converts temperature from Fahrenheit to Celsius
+c) Clears the outcome with clear button
